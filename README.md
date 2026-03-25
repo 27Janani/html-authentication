@@ -26,7 +26,12 @@ This project is a responsive authentication system built using HTML, Bootstrap 5
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+![Login](login.png)
+![Register](register.png)
+![ForgotPassword](forgot-password.png)
+![ResetPassword](reset-password.png)
+![Dashboard](dashboard.png)
+
 
 ## 🔗 GitHub Repository
 
