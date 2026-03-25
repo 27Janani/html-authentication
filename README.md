@@ -1,24 +1,33 @@
-# HTML Authentication POC
+# Authentication System UI (Bootstrap 5)
 
-This project demonstrates a simple authentication flow using only HTML.
+## 📌 Project Description
 
-## Pages Included
+This project is a responsive authentication system built using HTML, Bootstrap 5, and custom CSS. It includes 5 main pages:
 
-1. login.html
-2. register.html
-3. forgot-password.html
-4. reset-password.html
-5. dashboard.html
+* Login Page
+* Registration Page
+* Forgot Password Page
+* Reset Password Page
+* Dashboard Page
 
-## Flow
+## 🚀 Features
 
-Login → Dashboard  
-Register → Login  
-Forgot Password → Reset Password → Login
+* Fully responsive design
+* Bootstrap 5 components
+* Custom styling with CSS
+* Clean and modern UI
+* Mobile-friendly layout
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-HTML5 only (No CSS / No JavaScript)
+* HTML5
+* Bootstrap 5
+* CSS3
 
-## Author
-janani
+## 📸 Screenshots
+
+(Add screenshots here)
+
+## 🔗 GitHub Repository
+
+(Add your repo link here)
